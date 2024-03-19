@@ -22,5 +22,6 @@ private:
 
 public slots:
     void handleAction();
+    void moreActions();
 };
 #endif // MAINWINDOW_H
